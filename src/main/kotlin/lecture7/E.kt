@@ -3,8 +3,8 @@ package lecture7
 import java.io.BufferedReader
 import java.io.InputStreamReader
 
-const val IN = -1
-const val OUT = 1
+private const val IN = -1
+private const val OUT = 1
 
 fun main() {
 

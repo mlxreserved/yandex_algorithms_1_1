@@ -3,8 +3,8 @@ package lecture7
 import java.io.BufferedReader
 import java.io.InputStreamReader
 
-const val START = -1
-const val END = 1
+private const val START = -1
+private const val END = 1
 
 fun main() {
     val reader = BufferedReader(InputStreamReader(System.`in`))
